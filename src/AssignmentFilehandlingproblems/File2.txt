@@ -1,0 +1,4 @@
+Product: Smartphone
+Brand: OnePlus
+Model: OnePlus 9R
+Price: 39,999

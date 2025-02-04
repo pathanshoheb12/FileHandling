@@ -1,0 +1,3 @@
+Number Of Lines in Given text file :2
+Number Of Words in Given text file :8
+Number Of Characters in Given text file :31

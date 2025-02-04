@@ -1,0 +1,20 @@
+Name: Ravi Kumar
+Age: 34
+Occupation: IT Consultant
+Location: Hyderabad, India
+
+Product: Smartphone
+Brand: OnePlus
+Model: OnePlus 9R
+Price: 39,999
+
+Date: 2025-01-27
+Event: Family Gathering
+Time: 6:00 PM
+Location: Jubilee Hills, Hyderabad
+
+Title: Community Project
+Deadline: 2025-03-10
+Status: Planning Stage
+Assigned To: Priya Sharma
+
